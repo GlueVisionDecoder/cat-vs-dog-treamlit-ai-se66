@@ -1,4 +1,4 @@
-# 
+# Officiel Cat vs Dog Classifier with PyTorch and Streamlit scripts. Avec augmentation des données et IA dans le cloud — optimisé pour des performances maximales.
 
 
 
